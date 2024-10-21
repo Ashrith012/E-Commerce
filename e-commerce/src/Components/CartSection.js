@@ -192,7 +192,7 @@ function CartSection() {
               <p>
                 Congrats! You're eligible for <b>Free Delivery</b>.
                 <p style={{ marginTop: "5px", marginBottom: "0px" }}>
-                  Use code <b>SHUBHO20</b> for 20% discount.
+                  Use code <b>Ashrith012</b> for 20% discount.
                 </p>
               </p>
             </div>
@@ -229,7 +229,7 @@ function CartSection() {
               }
               className="applied"
             >
-              <b>SHUBHO20</b> has been applied!
+              <b>Ashrith012</b> has been applied!
             </p>
             <p
               style={
