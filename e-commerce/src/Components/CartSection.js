@@ -206,11 +206,11 @@ function CartSection() {
               />
               <button
                 onClick={() => {
-                  if (promocode === "SHUBHO20") {
+                  if (promocode === "Ashrith012") {
                     TotalValue(totalPrice1);
                     setdiscountCode(promocode);
                     setCorrectCode(true);
-                  } else if (promocode !== "SHUBHO20") {
+                  } else if (promocode !== "Ashrith012") {
                     setdiscountCode(promocode);
                     TotalValue(totalPrice2);
                     setCorrectCode(false);
