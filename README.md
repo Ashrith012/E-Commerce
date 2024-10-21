@@ -50,6 +50,8 @@ Profiles Page
 ![Profile](https://github.com/user-attachments/assets/c3033455-da94-4050-91d0-3514c1fea25a)
 
 
+# Contributing
 
+Contributions to this project are always welcome. Please feel free to raise an issue or submit a pull request if you find any bug or have any feature requests.
 
 
